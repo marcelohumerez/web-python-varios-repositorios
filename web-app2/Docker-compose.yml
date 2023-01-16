@@ -1,0 +1,9 @@
+services:
+  web-app2:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/app/
+    ports:
+      - '8009:8009'
