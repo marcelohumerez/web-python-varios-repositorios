@@ -7,7 +7,7 @@ st.set_page_config(page_title="Sales Dashboard", page_icon=":bar_chart:", layout
 
 
 st.write("""
-# Hola Lucianita My first app
+# Hola Lu Pupi y Tato Mouse My first app
 Marcelo Humerez #
 
 Colons can be used to align columns.
